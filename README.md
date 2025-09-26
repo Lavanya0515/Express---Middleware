@@ -26,3 +26,8 @@ Before you begin, make sure you have the following installed:
    ```bash
    mkdir express-middleware
    cd express-middleware
+OUTPUT:
+
+<img width="1417" height="96" alt="image" src="https://github.com/user-attachments/assets/9bc96634-5869-41f1-932e-67626e68d7e7" />
+<img width="1782" height="663" alt="image" src="https://github.com/user-attachments/assets/a9f568bf-47df-44fd-8cda-576390e65954" />
+<img width="1806" height="832" alt="image" src="https://github.com/user-attachments/assets/3efcc1ae-f84f-442c-8b0b-82de63a30b0e" />
